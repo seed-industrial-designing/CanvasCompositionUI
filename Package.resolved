@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "inlinelocalization",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zumuya/InlineLocalization.git",
+      "state" : {
+        "revision" : "542a688dd70db61d1538f7483d31491ba490803d",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "yokuaruui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zumuya/YokuAruUI.git",
+      "state" : {
+        "revision" : "2da4a7be87f8f14553578f9c73d0203938ade7e3",
+        "version" : "1.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
